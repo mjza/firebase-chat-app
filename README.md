@@ -1,6 +1,4 @@
-# chat-test-mahdi
-
-# The Chat App challenge of inline 
+# The Chat App challenge of inline based on firebase
 
 I’d like to ask you to solve a challenge. This is a small test that every technical candidate with inline goes through.  
 _The Challenge_  
